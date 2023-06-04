@@ -2,7 +2,6 @@
 #include <sstream>
 
 #include "garbage_collector.h"
-#include "memtrace.h" // a standard header-ek után kell lennie
 
 
 /// Két egészt hasonlít össze.

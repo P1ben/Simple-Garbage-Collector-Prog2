@@ -2,7 +2,6 @@
 #define GARBAGE_COLLECTOR_H
 
 #include <iostream>
-#include "memtrace.h"
 
 // Ha true az értéke, akkor a garbage collector műveletei kiírásra kerülnek.
 #define DEBUG_MODE false

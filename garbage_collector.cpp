@@ -1,5 +1,4 @@
 #include "garbage_collector.h"
-#include "memtrace.h"
 
 ReferenceCounter** GarbageCollector::array = NULL;
 size_t GarbageCollector::count = 0;
